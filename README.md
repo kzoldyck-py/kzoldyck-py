@@ -70,9 +70,10 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| ‎  <a href="https://www.youtube.com/@K3rnelRoot">        <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  </a> |
+| <a href="mailto:codebreaker.sec@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.gg/TUwGJT8Nhk)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
+
 
 ------
 
