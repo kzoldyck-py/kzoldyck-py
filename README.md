@@ -1,5 +1,5 @@
 <div align="Center">
-<img width="500" src="(https://skillicons.dev/icons?i=py)](https://skillicons.dev)" />
+<img width="500" src="(https://skillicons.dev/icons?i=py)" />
 
 <div align="center">
 
