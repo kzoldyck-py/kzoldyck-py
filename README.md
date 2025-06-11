@@ -34,7 +34,6 @@
 <br>
 <br>
 <br>
-
 <div align="Center">
 <h1>Operating Systems</h1>
 
@@ -78,4 +77,4 @@
 ------
 
 Credit: [](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+Last Edited on: 11/06/2025
