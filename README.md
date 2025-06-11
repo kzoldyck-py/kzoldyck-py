@@ -27,7 +27,7 @@
 
 | Lenguajes | Hacking |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,postgres,tor,py"/> | <img src="https://skillicons.dev/icons?i=vscode,redhat,github,terminal,ngrok,kali,powershell,hyprland"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,postgres,py"/> | <img src="https://skillicons.dev/icons?i=vscode,redhat,github,terminal,kali,powershell,hyprland"/> |
 
 </div>
 
