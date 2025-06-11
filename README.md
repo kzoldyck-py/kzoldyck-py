@@ -1,20 +1,81 @@
-# Hi there 👋, Bhargavi here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center">
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<a href="https://github.com/CtorW">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+</a>
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
+[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/CtorW)
+</div>
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+
+🌐 Hola, soy un entusiasta de la programación y la ciberseguridad. Mi enfoque principal está en Python, y disfruto explorando herramientas ofensivas, automatización y entornos como Kali Linux. Me apasiona aprender por mi cuenta, romper cosas para entender cómo funcionan, y crear soluciones con un propósito.
+
+
+
+💻 Aprendiendo ciberseguridad, y Python ofensivo
+
+
+<div align="Center">
+<h1>Skills</h1>
+</div>
+
+<div align="Center">
+
+| Lenguajes | Hacking |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,,postgres,py"/> | <img src="https://skillicons.dev/icons?i=linux,vscode,redhat,sublime,github,kali,powershell"/> |
+
+</div>
+
+<br>
+<br>
+<br>
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
+
+<br>
+<br>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+
+<div align="Center">
+
+| CtorW's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
+</div>
+
+<br>
+<br>
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+
+</div>
+
+------
+
+Credit: [Ctorw](https://github.com/CtorW)
+Last Edited on: 12/04/2005
