@@ -27,7 +27,7 @@
 
 | Lenguajes | Hacking |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,c,cpp,postgres,py"/> | <img src="https://skillicons.dev/icons?i=vscode,github,kali,powershell"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,c,cpp,postgres,py"/> |  <img src="https://skillicons.dev/icons?i=vscode,github,kali,powershell"/> |
 
 </div>
 
@@ -70,7 +70,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| ‎  <a href="https://www.youtube.com/@K3rnelRoot"> <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  </a> |
+| ‎  <a href="https://www.youtube.com/@K3rnelRoot">        <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  </a> |
 
 </div>
 
