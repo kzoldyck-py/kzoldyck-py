@@ -70,7 +70,7 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="codebreaker.sec@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.youtube.com/@K3rnelRoot"> <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  <a href="(https://discord.gg/TUwGJT8Nhk)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| ‎  <a href="https://www.youtube.com/@K3rnelRoot"> <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  </a> |
 
 </div>
 
