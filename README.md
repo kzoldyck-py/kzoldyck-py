@@ -27,7 +27,7 @@
 
 | Lenguajes | Hacking |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,,postgres,py"/> | <img src="https://skillicons.dev/icons?i=linux,vscode,redhat,sublime,github,kali,powershell"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,postgres,tor,py"/> | <img src="https://skillicons.dev/icons?i=vscode,redhat,github,terminal,ngrok,kali,powershell,hyprland,"/> |
 
 </div>
 
@@ -38,7 +38,7 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu,debian,wsl"/>
 
 </div>
 
