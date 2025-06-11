@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/kzoldyck-py">
-<img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-765.gif" />
+<img src="https://media1.tenor.com/m/pqckQpWm9DIAAAAC/typing-code.gif" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/CtorW)
