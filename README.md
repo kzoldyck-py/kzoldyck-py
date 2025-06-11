@@ -71,11 +71,11 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="codebreaker.sec@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.youtube.com/@K3rnelRoot"> <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="codebreaker.sec@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.youtube.com/@K3rnelRoot"> <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube"/> </a> ‎ ‎ ‎ ‎  <a href="(https://discord.gg/TUwGJT8Nhk)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
 ------
 
-Credit: [Ctorw](https://github.com/CtorW)
+Credit: [](https://github.com/CtorW)
 Last Edited on: 12/04/2005
